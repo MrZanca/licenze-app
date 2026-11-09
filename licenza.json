@@ -1,8 +1,11 @@
 {
   "app_sospese": [],
-  "emesso_il": "2026-10-19T08:19:41Z",
-  "firma": "n294Sibjs4zHwyNF9xn5dLBbU9oyRBTuhkqC6YsexXkFzIa+1q/Zk+tv+6A39q28Kq9btzJxmlnfFx9LiOC7Bw==",
+  "emesso_il": "2026-11-09T11:36:54Z",
+  "firma": "ytea73QNDJvZhOJ6DpRYeddGrokUg5b5jnkUCKw3CbmJ4+MjNY5Lb4OdIkYc5OvxG8L4yPkM9ag3c64pnZRMAg==",
   "messaggio": "",
+  "segreti": {
+    "StatoLastre": "uZxSoaQPmTFT+zg954KrwtuU9y5OhRzDoRsXRpZKWHVF/zDDQfsQ2RNM21KcrEf2B+3V9hWSykypKNM9TN/qtPf2paS/slB62Dtnc8AROAs="
+  },
   "stato": "attiva",
   "versione": 1
 }
