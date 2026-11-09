@@ -1,7 +1,7 @@
 {
   "app_sospese": [],
-  "emesso_il": "2026-11-09T13:37:33Z",
-  "firma": "l3KBTPOh/4//pJjcVji9Lm9cgA/nYrXmPb9sNYx+mA53cK+tvnqVkomW89Hb0zKoT7/5U138y4554boR80V8Dg==",
+  "emesso_il": "2026-11-09T16:03:12Z",
+  "firma": "VNlbQRp40hY7i0id5HADN60PcemWkqtzvIwF8+DTdHjOv5FHiyCYiX6gfHYYZlNRy3X+BruZ3ZgPoweLINt3Ag==",
   "messaggio": "",
   "pc": {
     "DataSigmaNest": [
@@ -21,8 +21,7 @@
     ],
     "NetBackup": [
       "0ad532e763b40458101bd780c0d29dce",
-      "3491b814ffad4fb09b206d5ed3ecebc4",
-      "fe43403b2337c407a5b3a8c8ff44ff38"
+      "3491b814ffad4fb09b206d5ed3ecebc4"
     ],
     "SlotFix": [
       "0ad532e763b40458101bd780c0d29dce",
