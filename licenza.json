@@ -1,10 +1,39 @@
 {
   "app_sospese": [],
-  "emesso_il": "2026-11-09T11:36:54Z",
-  "firma": "ytea73QNDJvZhOJ6DpRYeddGrokUg5b5jnkUCKw3CbmJ4+MjNY5Lb4OdIkYc5OvxG8L4yPkM9ag3c64pnZRMAg==",
+  "emesso_il": "2026-11-09T13:37:33Z",
+  "firma": "l3KBTPOh/4//pJjcVji9Lm9cgA/nYrXmPb9sNYx+mA53cK+tvnqVkomW89Hb0zKoT7/5U138y4554boR80V8Dg==",
   "messaggio": "",
-  "segreti": {
-    "StatoLastre": "uZxSoaQPmTFT+zg954KrwtuU9y5OhRzDoRsXRpZKWHVF/zDDQfsQ2RNM21KcrEf2B+3V9hWSykypKNM9TN/qtPf2paS/slB62Dtnc8AROAs="
+  "pc": {
+    "DataSigmaNest": [
+      "0ad532e763b40458101bd780c0d29dce",
+      "3491b814ffad4fb09b206d5ed3ecebc4",
+      "fe43403b2337c407a5b3a8c8ff44ff38"
+    ],
+    "GestioneProcessiSmarcatura": [
+      "0ad532e763b40458101bd780c0d29dce",
+      "3491b814ffad4fb09b206d5ed3ecebc4",
+      "fe43403b2337c407a5b3a8c8ff44ff38"
+    ],
+    "IndiceLastrePDF": [
+      "0ad532e763b40458101bd780c0d29dce",
+      "3491b814ffad4fb09b206d5ed3ecebc4",
+      "fe43403b2337c407a5b3a8c8ff44ff38"
+    ],
+    "NetBackup": [
+      "0ad532e763b40458101bd780c0d29dce",
+      "3491b814ffad4fb09b206d5ed3ecebc4",
+      "fe43403b2337c407a5b3a8c8ff44ff38"
+    ],
+    "SlotFix": [
+      "0ad532e763b40458101bd780c0d29dce",
+      "3491b814ffad4fb09b206d5ed3ecebc4",
+      "fe43403b2337c407a5b3a8c8ff44ff38"
+    ],
+    "SuiteNesting": [
+      "0ad532e763b40458101bd780c0d29dce",
+      "3491b814ffad4fb09b206d5ed3ecebc4",
+      "fe43403b2337c407a5b3a8c8ff44ff38"
+    ]
   },
   "stato": "attiva",
   "versione": 1
