@@ -1,7 +1,7 @@
 {
   "app_sospese": [],
-  "emesso_il": "2026-11-09T16:03:34Z",
-  "firma": "izlnJYDmfrs43Cr8fVwYCQozoAoEPtxSY4MU2xM3xzLOlIxboOPzC3xmjXpbwxVuCjTwTx+kVxPmze39QyZiBQ==",
+  "emesso_il": "2026-11-09T16:07:16Z",
+  "firma": "74gsbyOaar4dAzPc7u2oN5sDIvxmNiuhG3tK0zEcZqqc438QDUA/MCXPiCLA3+a1+6ERuNIMUg+EkfpLRcARBg==",
   "messaggio": "",
   "pc": {
     "DataSigmaNest": [
@@ -10,11 +10,6 @@
       "fe43403b2337c407a5b3a8c8ff44ff38"
     ],
     "GestioneProcessiSmarcatura": [
-      "0ad532e763b40458101bd780c0d29dce",
-      "3491b814ffad4fb09b206d5ed3ecebc4",
-      "fe43403b2337c407a5b3a8c8ff44ff38"
-    ],
-    "IndiceLastrePDF": [
       "0ad532e763b40458101bd780c0d29dce",
       "3491b814ffad4fb09b206d5ed3ecebc4",
       "fe43403b2337c407a5b3a8c8ff44ff38"
